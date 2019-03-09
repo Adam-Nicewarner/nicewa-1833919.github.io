@@ -1,0 +1,39 @@
+
+<!DOCTYPE html>
+	<head> 
+		<title> The hidden site</title>
+		<link rel="stylesheet" type="text/css" href="our.css" />
+		<link href='http://fonts.googleapis.com/css?family=Passion+One' rel='stylesheet' type='text/css'>
+	</head>
+
+	<body>
+		<div id = "Header">
+		   <table>
+		      <tr>
+					<td><h1>see if you can find every secret on this site</h1></td>
+		      </tr>
+			</table>
+			<img src="https://i5.walmartimages.com/asr/1edbe3d4-ec73-4a6d-a0be-f5483d5b5cdc_1.1496bf2b9f26a86dbce0e95253bb8a87.jpeg?odnHeight=450&odnWidth=450&odnBg=FFFFFF" title="Good Job, you've found the first one" alt = "and the second one as well, nice job!" style="width:200px;height:200px;" align = "left">
+		</div>
+		
+		<div id = "LeftNav">
+			<h3> There should be a total of # things to find(highlight the<font color = "#8E41D5"><a href=https://cdn.shopify.com/s/files/1/0947/6426/products/3_siffror-lampa.png?v=1499086890> </a> </font> text to see the answer list)</h3>
+			<ul>
+				<li><font color = "#8E41D5">The title text of the magnifying glass</font></li>
+				<li><font color = "#8E41D5">The alt text of the magnifying glass</font></li>
+				<li><font color = "#8E41D5">The space in between the and text above</font></li>
+				<li><font color = "#8E41D5">The link to number 4 below</font></li>
+				<li><font color = "#8E41D5">The hidden comment text below</font></li>
+				<!--<li><font color = "#8E41D5" >congrats, you found the fifth secret</font></li>-->
+            </ul>
+            <p><a href="https://images.homedepot-static.com/productImages/c0e71156-4516-439b-b99a-28b0f02050a1/svn/architectural-mailboxes-house-letters-numbers-3582b-4-64_1000.jpg"><font color = "#8E41D5">4</font></a></p>
+		</div>
+		
+		<br clear="all"></br>
+		<div id = "Footer">
+			<h3>There are 5 secrets total, see if you can find them all</h3>
+		</div>
+
+	</body>
+
+</html>
